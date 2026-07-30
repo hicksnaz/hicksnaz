@@ -22,13 +22,6 @@ I am working towards a career in SOC Tier 1 Analyst, Security/Cloud Engineering,
   <img src="https://img.shields.io/badge/Cisco-Certified%20Technician-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Certified Technician">
 </a>
 
-<a href="https://www.coursera.org/professional-certificates/google-cybersecurity" target="_blank">
-  <img src="https://img.shields.io/badge/Google-Cybersecurity-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Cybersecurity Professional Certificate">
-</a>
-
-<a href="https://www.coursera.org/professional-certificates/google-it-support" target="_blank">
-  <img src="https://img.shields.io/badge/Google-IT%20Support-34A853?style=for-the-badge&logo=google&logoColor=white" alt="Google IT Support Professional Certificate">
-</a>
 </p>
 
 # 💻 Technologies:

@@ -1,4 +1,4 @@
-## Hi there, I'm Nazir! 👋
+## Hi, I'm Nazir! 👋
 I'm a dual-degree student majoring in Cyber Operations Engineering at Bowie State University & Information Technology at North Carolina A&T State University with a strong interest in IT systems, cybersecurity, security operations, and cloud infrastructure.
 
 
